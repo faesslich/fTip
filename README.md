@@ -5,7 +5,7 @@
 #### Quick facts:
 - 100% free and open source (personal/commercial)
 - only 1.2kb gzipped
-- available via CDN: https://cdn.jsdelivr.net/gh/faesslich/fTip/dist/
+- available via CDN: https://cdn.jsdelivr.net/gh/faesslich/ftip/dist/
 
 <p><br></p>
 
